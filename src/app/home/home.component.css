@@ -1,0 +1,20 @@
+/* hero.css */
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height to 100% of the viewport height */
+  }
+  
+  .herotext {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .image {
+    text-align: center; /* Center-align the image */
+  }
+  
